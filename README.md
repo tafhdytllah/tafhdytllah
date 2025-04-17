@@ -8,9 +8,9 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Languages**: TypeScript, JavaScript, Go, Java, Kotlin, Dart
-- **Frontend**: React, Next, Vue, Tailwind, SASS, Flutter, Android Native
-- **Backend**: Node, Express, Gin, Springboot, PostgreSql
+- **Languages**: TypeScript, Java, Go,JavaScript
+- **Frontend**: React, NextJs, Tailwind 
+- **Backend**: Springboot, Nodejs, Expressjs, Gin, PostgreSql
 - **Others**: Git, Docker, Restful API
 
 ---
