@@ -8,7 +8,7 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Languages**: TypeScript, Java, Go,JavaScript
+- **Languages**: TypeScript, Java, Go, JavaScript
 - **Frontend**: React, NextJs, Tailwind 
 - **Backend**: Springboot, Nodejs, Expressjs, Gin, PostgreSql
 - **Others**: Git, Docker, Restful API
