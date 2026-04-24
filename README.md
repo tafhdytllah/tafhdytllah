@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufik Hidayatullah</h1>
-<h3 align="center">🚀 Software Engineer | Passionate About Scalable & Efficient Solutions</h3>
+<h3 align="center">🚀 Backend Engineer (Java, Spring Boot) | Full-Stack Developer (Next.js) | AI-Assisted Software Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tafhdytllah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Languages**: TypeScript, Java, Go, JavaScript
+- **Languages**: Java, TypeScript, Go, Python, JavaScript
 - **Frontend**: React, NextJs, Tailwind 
 - **Backend**: Springboot, Nodejs, Expressjs, Gin, PostgreSql
 - **Others**: Git, Docker, Restful API
