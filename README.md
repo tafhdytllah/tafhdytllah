@@ -17,12 +17,10 @@
 
 ### 📊 Most Used Languages
 <p align="left">
-  <a href="https://github.com/tafhdytllah?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhdytllah&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=ffffff&text_color=333333"
-      alt="Most Used Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=tafhdytllah&layout=compact"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
