@@ -17,12 +17,7 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=tafhdytllah&show_icons=true&theme=dracula" height="180"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tafhdytllah&layout=compact&theme=dracula" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=tafhdytllah&theme=dracula" height="180"/>
 </p>
 
 ---
